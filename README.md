@@ -1,2 +1,30 @@
-# guia-de-recomenda-es-html-css
-Este projeto é uma página web simples criada em HTML e CSS, onde o usuário encontra recomendações de filmes organizadas por categorias como Ação, Drama e um Top 5 pessoal. A página também contém imagens, links externos para sites de avaliação e uma navegação interna para facilitar o acesso às seções.
+# guia-recomendacoes-html-css
+
+Guia de Recomendações — página estática criada para praticar HTML e CSS básicos.
+
+Descrição
+
+Página simples com recomendações de Filmes, Séries e Livros. Contém títulos, parágrafos, imagens, listas, links internos e externos, e estilos em CSS.
+
+Arquivos
+
+- `index.html` — página principal
+- `style.css` — estilos da página
+- `img/` — pasta com imagens (capas em SVG)
+
+Tecnologias
+
+- HTML5
+- CSS3
+
+Como visualizar
+
+Abra `index.html` no navegador ou, via PowerShell, execute:
+
+```powershell
+Start-Process .\index.html
+```
+
+Deploy
+
+Você pode publicar esta pasta em um repositório GitHub e ativar GitHub Pages (branch `main` ou `gh-pages`).
